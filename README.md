@@ -1,4 +1,4 @@
-# Get NBA statistics from Watch NBA
+# Get NBA statistics from Watch NBA 
 ![alt text](https://miro.medium.com/max/1050/1*ypslG7x_vZF28O9X-l1ZVQ.jpeg)
 
 ## NBA_BOX.py
