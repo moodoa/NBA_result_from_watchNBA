@@ -3,7 +3,7 @@
 
 ## NBA_BOX.py
 #### get_today_games_url
-* 以 selenium 進入 watch NBA(https://watch.nba.com/)，並取得今日賽程URL。
+* 以 selenium 進入 watch NBA( https://watch.nba.com/ )，並取得今日賽程URL。
 * 回傳值範例如下：`['https://watch.nba.com/game/20200726/PHIOKC', 'https://watch.nba.com/game/20200726/HOUMEM']`。
 
 #### url_to_page_source
