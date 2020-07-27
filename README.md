@@ -1,5 +1,5 @@
 # Get NBA statistics from Watch NBA 
-![alt text](https://miro.medium.com/max/1050/1*ypslG7x_vZF28O9X-l1ZVQ.jpeg)
+![alt text](https://i.imgur.com/iXNVCRo.jpg)
 
 ## NBA_BOX.py
 #### get_today_games_url
